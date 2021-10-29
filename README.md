@@ -9,5 +9,28 @@ One of the most popular, easy-to-use, and effective segmentation methods to enab
 ### What is RFM Analysis?
 RFM stands for Recency, Frequency, and Monetary value, each corresponding to some key customer trait. These RFM metrics are important indicators of a customer’s behavior because frequency and monetary value affects a customer’s lifetime value, and recency affects retention, a measure of engagement.
 
-![]()
+![](Incontent_image.png)
+Businesses that lack the monetary aspect, like viewership, readership, or surfing-oriented products, could use Engagement parameters instead of Monetary factors. This results in using RFE – a variation of RFM. Furthermore, this Engagement parameter could be defined as a composite value based on metrics such as bounce rate, visit duration, number of pages visited, time spent per page, etc.
+
+**RFM factors illustrate these facts:**
+
+1.the more recent the purchase, the more responsive the customer is to promotions
+
+2.the more frequently the customer buys, the more engaged and satisfied they are
+
+3.monetary value differentiates heavy spenders from low-value purchasers
+
+**RFM analysis helps marketers find answers to the following questions:**
+
+Who are your best customers?
+
+Which of your customers could contribute to your churn rate?
+
+Who has the potential to become valuable customers?
+
+Which of your customers can be retained?
+
+Which of your customers are most likely to respond to engagement campaigns?
+
+
 
