@@ -32,5 +32,5 @@ Which of your customers can be retained?
 
 Which of your customers are most likely to respond to engagement campaigns?
 
-[ For notebook please click here RFM Analysis on Brazilian E-Commerce Public Dataset by Olist]()
+[ For notebook please click here RFM Analysis on Brazilian E-Commerce Public Dataset by Olist](https://github.com/krishnavamshikorpal/Customers-Segmentation-using-RFM-Analysis/blob/master/RFM%20Analysis/Brazilian%20E-Commerce%20RFM%20Analysis.ipynb)
 
